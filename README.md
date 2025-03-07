@@ -34,7 +34,7 @@ The Python script incorporates the following functionalities:
 Run the training script directly from the command line:
 
 ```bash
-python train_model.py
+python calc.py
 ```
 
 This process includes data loading, model training, and exporting weights suitable for integration into TURBOMOLE workflows.
