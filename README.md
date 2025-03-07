@@ -57,5 +57,5 @@ Part of this codebase was edited with the assistance of ChatGPT, leveraged to en
 
 ## Training data
 
-Training data for local double hybrids are available in 10.5281/zenodo.14991207
+Training data for local double hybrids are available in  https://doi.org/10.5281/zenodo.14991207
 
