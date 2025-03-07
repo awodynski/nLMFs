@@ -27,7 +27,7 @@ The Python script incorporates the following functionalities:
 
 - **Output and Integration:**
   - Custom callbacks for monitoring training progress.
-  - Saving model parameters in a TurboMole-friendly format, facilitating direct integration into quantum chemical calculations.
+  - Saving model parameters in a TURBOMOLE-friendly format, facilitating direct integration into quantum chemical calculations.
 
 ## Usage Instructions
 
@@ -53,5 +53,5 @@ MIT License
 
 ## Acknowledgements
 
-Part of this codebase was written with the assistance of ChatGPT, leveraged to enhance both clarity and consistency.
+Part of this codebase was edited with the assistance of ChatGPT, leveraged to enhance both clarity and consistency.
 
