@@ -75,7 +75,7 @@ model_creator = ModelCreator(
     corr_train=False,
     rs_model=True,
     testset_names=TESTSET_NAMES,
-    print_logical=True
+    print_logical=False
 )
 
 model, my_loss = model_creator.create_model()
