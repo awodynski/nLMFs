@@ -55,3 +55,7 @@ MIT License
 
 Part of this codebase was edited with the assistance of ChatGPT, leveraged to enhance both clarity and consistency.
 
+## Training data
+
+Training data for local double hybrids are available in 10.5281/zenodo.14991207
+
