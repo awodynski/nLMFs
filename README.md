@@ -51,3 +51,7 @@ https://doi.org/10.1021/acs.jctc.4c01503
 
 MIT License
 
+## Acknowledgements
+
+Part of this codebase was written with the assistance of ChatGPT, leveraged to enhance both clarity and consistency.
+
