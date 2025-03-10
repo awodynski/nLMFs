@@ -27,14 +27,14 @@ INPUT_SQUEEZE = 'SignedLogTransform'
 # Testset selection
 TESTSET_NAMES = ['W417', 'BH76']
 TESTSET_PATHS = {
-    'W417': "/lustre/wodynski/testset_mp2/wDH25/grid2/w417/",
-    'BH76': "/lustre/wodynski/testset_mp2/wDH25/grid2/bh76/"
+    'W417': "/path/to/data/w417/",
+    'BH76': "/path/to/data/bh76/"
 }
 SCALES = [0.5, 0.5]
 
 #TESTSET_NAMES = ['debugtest']
 #TESTSET_PATHS = {
-#    'debugtest': "/lustre/wodynski/testset_mp2/wDH25/grid2/w417/"
+#    'debugtest': "/path/to/data/w417/"
 #}
 #SCALES = [1.0]
 
